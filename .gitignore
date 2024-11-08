@@ -1,10 +1,11 @@
 lung_image_sets
+lung_image_sets_no_duplicates
 lung_image_sets.zip
 splitted
+splitted_dataset
+splitted_lung
 archive
-model_DenseNet201.h5
-model_base_cnn.h5
-model_EfficientNetB7.h5
-Base_CNN.h5
-DenseNet201.h5
-EfficientNetB7.h5
+EfficientNetV2B3.h5
+EfficientNetV2B2.h5
+model_EfficientNetV2B3.h5
+model_EfficientNetV2B2.h5
