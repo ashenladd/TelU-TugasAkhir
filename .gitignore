@@ -9,3 +9,4 @@ EfficientNetV2B3.h5
 EfficientNetV2B2.h5
 model_EfficientNetV2B3.h5
 model_EfficientNetV2B2.h5
+splitted_dataset_v2
